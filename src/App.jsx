@@ -4,7 +4,7 @@ import Product from './Product'
 function App() {
   // intalizing product variable
   const Products=[
-    {id:1,name:"Apples",image:"./src/assets/apples.png",description:"Fresh Apples" , price:30},
+    {id:1,name:"Apples",image:"./public/apples.png",description:"Fresh Apples" , price:30},
     {id:2,name:"oranges",image:"./src/assets/oranges.png",description:"Fresh Oranges",price:40},
     {id:3,name:"kiwi",image:"./src/assets/kiwi.png",description:"Fresh Kiwi",price:150},
     {id:4,name:"watermelon",image:"./src/assets/watermelon.png",description:"Fresh watermelons",price:290},
