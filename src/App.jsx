@@ -4,12 +4,12 @@ import Product from './Product'
 function App() {
   // intalizing product variable
   const Products=[
-    {id:1,name:"Apples",image:"./public/apples.png",description:"Fresh Apples" , price:30},
-    {id:2,name:"oranges",image:"./public/oranges.png",description:"Fresh Oranges",price:40},
-    {id:3,name:"kiwi",image:"./public//kiwi.png",description:"Fresh Kiwi",price:150},
-    {id:3,name:"pineapples",image:"./public/pine.png",description:"Fresh pineapples",price:150},
-    {id:4,name:"watermelon",image:"./public/watermelon.png",description:"Fresh watermelons",price:290},
-    {id:5,name:"pear",image:"./public/pear.png",description:"Fresh pear",price:290},
+    {id:1,name:"Apples",image:"./dist/apples.png",description:"Fresh Apples" , price:30},
+    {id:2,name:"oranges",image:"./dist/oranges.png",description:"Fresh Oranges",price:40},
+    {id:3,name:"kiwi",image:"./dist//kiwi.png",description:"Fresh Kiwi",price:150},
+    {id:3,name:"pineapples",image:"./distpine.png",description:"Fresh pineapples",price:150},
+    {id:4,name:"watermelon",image:"./dist/watermelon.png",description:"Fresh watermelons",price:290},
+    {id:5,name:"pear",image:"./dist/pear.png",description:"Fresh pear",price:290},
    
   ]
 
